@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudyKasusJvm</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="hitung">Hitung</string>
+    <string name="Total">Total</string>
+
+</resources>
